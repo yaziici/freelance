@@ -1,4 +1,4 @@
-**İletişim : yaziici.ua@gmail.com**
+**İletişim: yaziici.ua@gmail.com**
 
 # Projenin Kurulumu
 ## Dosyaları Çıkartma
